@@ -1,7 +1,5 @@
 # web-llm-ui
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/adamelliotfields/web-llm-ui?devcontainer_path=.devcontainer/devcontainer.json&machine=basicLinux32gb)
-
 https://github.com/adamelliotfields/web-llm-ui/assets/7433025/07565763-606b-4de3-aa2d-8d5a26c83941
 
 A React app I made to experiment with [quantized](https://huggingface.co/docs/transformers/en/quantization/overview) models in the browser using [WebGPU](https://webgpu.org). The models are compiled to WebAssembly using [MLC](https://github.com/mlc-ai/mlc-llm), which is like [llama.cpp](https://github.com/ggml-org/llama.cpp) for the web.
